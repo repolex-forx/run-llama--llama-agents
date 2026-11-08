@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/run-llama/llama-agents/commit/6019e81075ca18f21457813e6437c49c9e57be24",
       "git:hexsha": "6019e81075ca18f21457813e6437c49c9e57be24",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/run-llama/llama-agents/commit/6e7d5b96301f8d216f81d3be96af42e63b3c3297",
